@@ -1,0 +1,23 @@
+{
+    "image_path": "red_war_plan.png",
+    "image_start_coords": [1617, 1334],
+    "thread_delay": 2,
+    "unverified_place_frequency": false,
+    "compact_logging": true,
+    "using_tor": false,
+    "tor_port": 1881,
+    "tor_control_port": 9051,
+    "tor_password": "Passwort",
+    "tor_delay": 5,
+    "use_builtin_tor": true,
+    "workers": {
+        "oneAccounT_name": {
+            "password": "",
+            "start_coords": [0, 1]
+        },
+        "SecoundAccountname": {
+            "password": "",
+            "start_coords": [1, 1]
+        }
+    }
+}
